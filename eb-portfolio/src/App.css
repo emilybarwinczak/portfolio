@@ -135,3 +135,9 @@ h3 {
   padding-top: 7%;
   padding-bottom: 5%;
 }
+
+.projectSection {
+  background-image: linear-gradient(to top, #EDF7FA, #badfdbb2, #99cac5d3);
+  padding-top: 7%;
+  padding-bottom: 5%;
+}
