@@ -1,9 +1,9 @@
 export default function HeaderMenu() {
     return (
-        <div class="header-foot ">
+        <div class="header ">
             <ul>
                 <li>
-                    <a href="#about-me">About Me</a>
+                    <a href="#about">About Me</a>
                 </li>
                 <li>
                     <a href="#skills">Skills</a>
@@ -15,3 +15,5 @@ export default function HeaderMenu() {
         </div>
     )
 }
+
+

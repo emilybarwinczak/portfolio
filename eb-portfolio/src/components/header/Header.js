@@ -1,5 +1,4 @@
 import HeaderMenu from "./HeaderMenu"
-// import Navbar from "./Navbar"
 
 export default function Header() {
     return (
@@ -10,7 +9,7 @@ export default function Header() {
                         <b>EMILY BARWINCZAK</b><br></br>
                         <div class="subtitle">Software Engineer</div>
                     </div>
-                <HeaderMenu />
+                    <HeaderMenu />
                 </div>
             </section>
         </div>
