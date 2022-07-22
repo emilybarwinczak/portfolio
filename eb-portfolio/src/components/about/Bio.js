@@ -1,4 +1,4 @@
-import Resume from './EmilyBarwinczakResume.pdf'
+import Resume from './Emily_Barwinczak_Resume.pdf'
 import React from 'react'
 
 export default function Bio() {
